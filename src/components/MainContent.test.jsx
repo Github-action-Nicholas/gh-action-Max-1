@@ -6,6 +6,7 @@ import MainContent from "./MainContent";
 
 // my test to skip the comments
 // add other skp testing
+// no skip
 
 describe("MainContent", () => {
   it("should render a button", () => {
