@@ -5,6 +5,7 @@ import userEvent from "@testing-library/user-event";
 import MainContent from "./MainContent";
 
 // my test to skip the comments
+// add other skp testing
 
 describe("MainContent", () => {
   it("should render a button", () => {
